@@ -1,0 +1,1 @@
+Download MySQL Connector/J from MySQL official website and place it in the lib folder.
